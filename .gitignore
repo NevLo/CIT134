@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Chapter2/SkeletonProgram/nbproject/private/
+/Chapter1/HelloWorld/nbproject/private/
+/Chapter1/HelloWorld/build/
+/Chapter2/SkeletonProgram/build/
+/Chapter2/SkeletonProgram/dist/
+/Chapter1/Quotes/nbproject/private/
+/Chapter1/Hello5/nbproject/private/
+/Chapter1/Quotes/build/
+/Chapter1/Hello5/build/
+/Chapter1/namemajor/nbproject/private/
+/Chapter1/namemajor/build/
