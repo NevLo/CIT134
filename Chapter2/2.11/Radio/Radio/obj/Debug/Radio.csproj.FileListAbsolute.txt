@@ -1,0 +1,9 @@
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\bin\Debug\Radio.exe.config
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\bin\Debug\Radio.exe
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\bin\Debug\Radio.pdb
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.Form1.resources
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.Cache
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.exe
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Radio\Radio\obj\Debug\Radio.pdb

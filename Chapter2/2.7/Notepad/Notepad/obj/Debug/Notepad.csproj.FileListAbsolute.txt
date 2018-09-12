@@ -1,0 +1,10 @@
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Notepad\Notepad\obj\Debug\Notepad.pdb
