@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\bin\Debug\Consoleapp.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\bin\Debug\Consoleapp.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\bin\Debug\Consoleapp.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\obj\Debug\Consoleapp.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\obj\Debug\Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\obj\Debug\Consoleapp.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter3\Consoleapp\Consoleapp\obj\Debug\Consoleapp.pdb
