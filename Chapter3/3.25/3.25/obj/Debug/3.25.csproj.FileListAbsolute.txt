@@ -1,0 +1,6 @@
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\bin\Debug\3.25.exe.config
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\bin\Debug\3.25.exe
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\bin\Debug\3.25.pdb
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\obj\Debug\3.25.csproj.CoreCompileInputs.cache
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\obj\Debug\3.25.exe
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.25\3.25\obj\Debug\3.25.pdb

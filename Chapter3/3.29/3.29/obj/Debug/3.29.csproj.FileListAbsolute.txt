@@ -1,0 +1,6 @@
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\bin\Debug\3.29.exe.config
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\bin\Debug\3.29.exe
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\bin\Debug\3.29.pdb
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\obj\Debug\3.29.csproj.CoreCompileInputs.cache
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\obj\Debug\3.29.exe
+C:\Users\NevLo\Documents\GitHub\CIT134\Chapter3\3.29\3.29\obj\Debug\3.29.pdb
