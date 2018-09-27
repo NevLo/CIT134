@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\bin\Debug\IfElseTests.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\bin\Debug\IfElseTests.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\bin\Debug\IfElseTests.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\obj\Debug\IfElseTests.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\obj\Debug\IfElseTests.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\obj\Debug\IfElseTests.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\IfElseTests\IfElseTests\obj\Debug\IfElseTests.pdb

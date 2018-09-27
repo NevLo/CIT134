@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\bin\Debug\Ages.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\bin\Debug\Ages.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\bin\Debug\Ages.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\obj\Debug\Ages.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\obj\Debug\Ages.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\obj\Debug\Ages.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\Ages\Ages\obj\Debug\Ages.pdb

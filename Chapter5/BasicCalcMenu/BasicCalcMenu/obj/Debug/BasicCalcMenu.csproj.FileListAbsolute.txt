@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\bin\Debug\BasicCalcMenu.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\bin\Debug\BasicCalcMenu.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\bin\Debug\BasicCalcMenu.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\obj\Debug\BasicCalcMenu.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\obj\Debug\BasicCalcMenu.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\obj\Debug\BasicCalcMenu.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\BasicCalcMenu\BasicCalcMenu\obj\Debug\BasicCalcMenu.pdb
