@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\bin\Debug\GasMileage.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\bin\Debug\GasMileage.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\bin\Debug\GasMileage.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\obj\Debug\GasMileage.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\obj\Debug\GasMileage.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\obj\Debug\GasMileage.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.17\GasMileage\obj\Debug\GasMileage.pdb

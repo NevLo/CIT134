@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\bin\Debug\5.22.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\bin\Debug\5.22.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\bin\Debug\5.22.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\obj\Debug\5.22.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\obj\Debug\5.22.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\obj\Debug\5.22.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter5\5.22\5.22\obj\Debug\5.22.pdb
