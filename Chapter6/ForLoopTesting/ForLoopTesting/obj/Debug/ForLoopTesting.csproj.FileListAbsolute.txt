@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\bin\Debug\ForLoopTesting.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\bin\Debug\ForLoopTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\bin\Debug\ForLoopTesting.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\obj\Debug\ForLoopTesting.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\obj\Debug\ForLoopTesting.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\obj\Debug\ForLoopTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\ForLoopTesting\ForLoopTesting\obj\Debug\ForLoopTesting.pdb

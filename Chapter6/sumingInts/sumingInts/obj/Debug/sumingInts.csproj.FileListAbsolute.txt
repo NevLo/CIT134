@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\bin\Debug\sumingInts.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\bin\Debug\sumingInts.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\bin\Debug\sumingInts.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\obj\Debug\sumingInts.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\obj\Debug\sumingInts.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\sumingInts\sumingInts\obj\Debug\sumingInts.pdb

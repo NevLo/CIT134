@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\bin\Debug\AgeTesting.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\bin\Debug\AgeTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\bin\Debug\AgeTesting.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\obj\Debug\AgeTesting.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\obj\Debug\AgeTesting.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\obj\Debug\AgeTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\AgeTesting\AgeTesting\obj\Debug\AgeTesting.pdb

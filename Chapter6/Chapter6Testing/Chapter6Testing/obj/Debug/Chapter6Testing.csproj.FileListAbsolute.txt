@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\bin\Debug\Chapter6Testing.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\bin\Debug\Chapter6Testing.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\bin\Debug\Chapter6Testing.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\obj\Debug\Chapter6Testing.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\obj\Debug\Chapter6Testing.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\Chapter6Testing\Chapter6Testing\obj\Debug\Chapter6Testing.pdb

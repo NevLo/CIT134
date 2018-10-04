@@ -1,0 +1,7 @@
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\bin\Debug\SwitchTesting.exe.config
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\bin\Debug\SwitchTesting.exe
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\bin\Debug\SwitchTesting.pdb
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\obj\Debug\SwitchTesting.csprojAssemblyReference.cache
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\obj\Debug\SwitchTesting.csproj.CoreCompileInputs.cache
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\obj\Debug\SwitchTesting.exe
+c:\users\christian_pilley\source\repos\SwitchTesting\SwitchTesting\obj\Debug\SwitchTesting.pdb
