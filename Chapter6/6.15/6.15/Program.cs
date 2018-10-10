@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//name: Christian Pilley
+//date: 10/10/18 2:13
+//desc: draws Triangles
 namespace _6._15
 {
     class Program

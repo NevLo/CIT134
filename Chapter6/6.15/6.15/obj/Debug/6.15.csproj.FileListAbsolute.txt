@@ -5,3 +5,10 @@ C:\Users\NevLo\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.csprojR
 C:\Users\NevLo\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.csproj.CoreCompileInputs.cache
 C:\Users\NevLo\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.exe
 C:\Users\NevLo\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\bin\Debug\6.15.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\bin\Debug\6.15.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\bin\Debug\6.15.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter6\6.15\6.15\obj\Debug\6.15.pdb
