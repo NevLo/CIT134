@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\bin\Debug\MethodStuff.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\bin\Debug\MethodStuff.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\bin\Debug\MethodStuff.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\obj\Debug\MethodStuff.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\obj\Debug\MethodStuff.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\obj\Debug\MethodStuff.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\MethodStuff\MethodStuff\obj\Debug\MethodStuff.pdb

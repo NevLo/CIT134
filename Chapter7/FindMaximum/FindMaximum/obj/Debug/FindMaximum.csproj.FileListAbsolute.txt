@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\bin\Debug\FindMaximum.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\bin\Debug\FindMaximum.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\bin\Debug\FindMaximum.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\obj\Debug\FindMaximum.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\obj\Debug\FindMaximum.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\FindMaximum\FindMaximum\obj\Debug\FindMaximum.pdb
