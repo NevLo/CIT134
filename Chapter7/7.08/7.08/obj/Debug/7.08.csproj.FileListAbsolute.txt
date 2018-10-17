@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\bin\Debug\7.08.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\bin\Debug\7.08.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\bin\Debug\7.08.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\obj\Debug\7.08.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\obj\Debug\7.08.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\obj\Debug\7.08.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter7\7.08\7.08\obj\Debug\7.08.pdb

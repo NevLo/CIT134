@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\bin\Debug\7.29.exe.config
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\bin\Debug\7.29.exe
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\bin\Debug\7.29.pdb
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\obj\Debug\7.29.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\obj\Debug\7.29.exe
+C:\Users\Christian_Pilley\source\repos\7.29\7.29\obj\Debug\7.29.pdb
