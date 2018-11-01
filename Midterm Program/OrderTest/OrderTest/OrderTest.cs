@@ -108,5 +108,6 @@ namespace OrderTest
         {
             Console.WriteLine($"Total: {MyOrder.Total}");
         }
+        
     }
 }

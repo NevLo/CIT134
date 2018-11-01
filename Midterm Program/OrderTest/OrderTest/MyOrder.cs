@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderTest
 {
-    class MyOrder
+    public class MyOrder
     {
         private static Decimal total;
         public static Decimal Total {
