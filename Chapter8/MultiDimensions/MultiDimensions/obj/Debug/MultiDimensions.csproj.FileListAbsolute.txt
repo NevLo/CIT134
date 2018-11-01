@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\obj\Debug\MultiDimensions.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\bin\Debug\MultiDimensions.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\bin\Debug\MultiDimensions.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\bin\Debug\MultiDimensions.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\obj\Debug\MultiDimensions.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter8\MultiDimensions\MultiDimensions\obj\Debug\MultiDimensions.pdb
