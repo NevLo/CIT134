@@ -1,0 +1,7 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\bin\Debug\LINQtest.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\bin\Debug\LINQtest.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\bin\Debug\LINQtest.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\obj\Debug\LINQtest.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\obj\Debug\LINQtest.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\obj\Debug\LINQtest.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQtest\LINQtest\obj\Debug\LINQtest.pdb

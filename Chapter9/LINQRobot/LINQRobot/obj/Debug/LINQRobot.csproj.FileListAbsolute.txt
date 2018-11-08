@@ -1,0 +1,6 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\bin\Debug\LINQRobot.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\bin\Debug\LINQRobot.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\bin\Debug\LINQRobot.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\obj\Debug\LINQRobot.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\obj\Debug\LINQRobot.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter9\LINQRobot\LINQRobot\obj\Debug\LINQRobot.pdb
