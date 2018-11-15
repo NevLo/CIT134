@@ -7,3 +7,13 @@ C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Calculator\Calculator\obj\Debug\
 C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\NevLo\Documents\GitHub\CIT130\Chapter2\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter2\2.9\Calculator\Calculator\obj\Debug\Calculator.pdb

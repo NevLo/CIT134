@@ -1,0 +1,10 @@
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\bin\Debug\CompTesting.exe.config
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\bin\Debug\CompTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\bin\Debug\CompTesting.pdb
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.csprojAssemblyReference.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.Form1.resources
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.Properties.Resources.resources
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.csproj.GenerateResource.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.exe
+C:\Users\Christian_Pilley\Documents\GitHub\CIT134\Chapter10\CompTesting\CompTesting\obj\Debug\CompTesting.pdb
